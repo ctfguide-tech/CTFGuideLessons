@@ -1,0 +1,48 @@
+{
+  "questions" : [
+    {
+       "q" : "What is Linux??"
+       "a" : "An operating system",
+       "b" : "A programming language",
+       "c" : "A video game",
+       "d" : "A web browser.",
+       "correct" : "a"
+    },
+    {
+       "q" : "Which command is used to list files and directories in Linux?"
+       "a" : "pwd",
+       "b" : "ls",
+       "c" : "cd",
+       "d" : "cat",
+       "correct" : "b"
+    },
+     {
+       "q" : "Which command is used to change the permissions of a file in Linux?"
+       "a" : "chmod",
+       "b" : "chown",
+       "c" : "chgrp",
+       "d" : "chmodx",
+       "correct" : "a"
+    },
+    {
+       "q" : "Which command is used to search for a specific string in a file in Linux?"
+       "a" : "grep",
+       "b" : "find",
+       "c" : "locate",
+       "d" : "whereis",
+       "correct" : "a"
+    },
+    {
+       "q" : "Which command is used to remove a directory in Linux?"
+       "a" : "rmdir",
+       "b" : "mv",
+       "c" : "rm",
+       "d" : "cp",
+       "correct" : "c"
+    }
+    
+    
+    
+    
+  ]
+}

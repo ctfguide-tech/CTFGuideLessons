@@ -1,0 +1,10 @@
+{
+  "title":  "Linux Basics",
+  "description": "A introductory course that teaches the fundementals of Linux."
+  "author" : "CTFGuide",
+  "date" : "04/14/2023",
+  "sections" : 4,
+  "text" : ["title 1", "title 2"],
+  "activity" : "Activity Title",
+  "dynamic" : ["Dynamic 1", "Dynamic 2", "Dynamic 3", "Dynamic 4"]
+}
